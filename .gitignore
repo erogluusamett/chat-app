@@ -1,0 +1,16 @@
+# Backend
+chatapp/target/
+
+# Frontend
+chat-app-frontend/node_modules/
+chat-app-frontend/build/
+chat-app-frontend/dist/
+chat-app-frontend/.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
